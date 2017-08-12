@@ -83,7 +83,7 @@ Author Information
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [mit-link]: https://raw.githubusercontent.com/elliotweiser/ansible-osx-command-line-tools/master/LICENSE
 [role-badge]: https://img.shields.io/ansible/role/14481.svg
-[travis-badge]: https://api.travis-ci.org/elliotweiser/ansible-osx-command-line-tools.svg?branch=master
-[travis-link]: https://travis-ci.org/elliotweiser/ansible-osx-command-line-tools
+[travis-badge]: https://api.travis-ci.org/RotsiserMho/ansible-osx-command-line-tools.svg?branch=master
+[travis-link]: https://travis-ci.org/RotsiserMho/ansible-osx-command-line-tools
 [vagrant]: https://www.vagrantup.com/downloads.html
 [vbox]: https://www.virtualbox.org/wiki/Downloads
